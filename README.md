@@ -1,6 +1,6 @@
-# smart_bmi
+# Smart_BMI
 
-A new Flutter project.
+A Body Mass Index Calculator app built using Flutter.
 
 ## Getting Started
 
